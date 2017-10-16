@@ -1,3 +1,4 @@
+Miquel Esteva Thomas 16/10/2017
 # DHCP FAILOVER
 
 The target is to get a test system with two dhcp servers (primary and secondary) that are serving the same pool to a client.
